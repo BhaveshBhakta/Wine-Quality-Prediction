@@ -23,7 +23,7 @@ The purpose of this project is to classify red wine into two categories based on
 To set up and run the project, follow these steps:
 1. **Clone the repository**:
    ```bash
-   git clonehttps://github.com/BhaveshBhakta/Wine-Quality-Prediction-Using-ML.git
+   git clone https://github.com/BhaveshBhakta/Wine-Quality-Prediction-Using-ML.git
    ```
 2. **Navigate to the project directory**:
    ```bash
